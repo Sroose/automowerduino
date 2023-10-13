@@ -21,7 +21,7 @@
 #include <WiFi101.h>
 
 
-//Remove // before // Serial.println for debugging
+//Comment out Serial.println again after debugging
 //AVOID STRINGS => memory issues
 
 // VARS 
